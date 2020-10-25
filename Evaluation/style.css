@@ -1,0 +1,45 @@
+.p1_bg {
+	background-color: #a432fd;
+}
+
+.header_lien1 {
+	color: white;
+	width: 10%;	
+	text-align: center;
+}
+
+.btn_connexion {
+	background-color: purple;
+	border-radius: 25px;
+	color: white;
+}
+
+.p2_bg {
+	background-color: #a432fd;
+}
+
+.p2_img {
+	text-align: right;
+}
+
+.p2_text {
+	color: white;
+}
+
+.p3_titre {
+	color: #a432fd
+}
+
+.p3_btn_defis {
+	color: white;
+	border-radius: 25px;
+	background-color: purple;
+}
+
+.p4_bg {
+	background-color: #a432fd;
+}
+
+.p4_bg_img {
+	background-image: url('Fil rouge - Intégration-assets/paris-personnalises.png');
+}
